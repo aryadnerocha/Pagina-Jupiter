@@ -228,6 +228,12 @@ div.video > iframe {
  height: 90%;
 }
 
+ul {
+  text-align: left;
+  padding-left: 2%;
+  padding-right: 8%;
+}
+
 footer {
   text-align: center;
   background-color: #000000;
